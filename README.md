@@ -3,6 +3,10 @@
 This project is a **React + TypeScript frontend** for a multi-tenant project management system with **GraphQL integration**.  
 It uses **Apollo Client**, **TailwindCSS**, **ShadCN UI**, and **React Hook Form with Zod** for form validation.
 
+
+https://github.com/user-attachments/assets/750ce791-5ed0-467b-ba6d-ca4c1794e293
+
+
 ## Available Scripts
 
 In the project directory, you can run:
